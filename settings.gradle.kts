@@ -26,3 +26,4 @@ rootProject.name = "PMDM_2DAM"
 include(":ud2_r1_ej1")
 include(":ud2_r1_ej2")
 include(":ud2_tutorial2")
+include(":ud2_r2_ej1")
